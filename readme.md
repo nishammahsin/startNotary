@@ -1,6 +1,6 @@
 # Decentralized Star Notary
 
-This is the fifth project of the Udacity Blockchain Nanodegree. It is a decenteralized smart contract app that provides a web front end to create and lookup stars. 
+This is the project of the Udacity Blockchain Nanodegree. It is a decenteralized smart contract app that provides a web front end to create and lookup stars. 
 The DAPP implements the ERC-721 non-fungible token interface from openzeppelin and is deployed to the public Rinkeby Ethereum test network at the contract address:  
 https://rinkeby.etherscan.io/address/0xb5b519b581672887206db6a295d71d75b72701a8
 
